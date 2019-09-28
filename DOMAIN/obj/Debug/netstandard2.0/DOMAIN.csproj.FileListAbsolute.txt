@@ -1,0 +1,9 @@
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\bin\Debug\netstandard2.0\DOMAIN.deps.json
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\bin\Debug\netstandard2.0\DOMAIN.dll
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\bin\Debug\netstandard2.0\DOMAIN.pdb
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\obj\Debug\netstandard2.0\DOMAIN.csprojAssemblyReference.cache
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\obj\Debug\netstandard2.0\DOMAIN.csproj.CoreCompileInputs.cache
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\obj\Debug\netstandard2.0\DOMAIN.AssemblyInfoInputs.cache
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\obj\Debug\netstandard2.0\DOMAIN.AssemblyInfo.cs
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\obj\Debug\netstandard2.0\DOMAIN.dll
+D:\Dokumenta\master\MASTER RAD\CarSharring1\DOMAIN\obj\Debug\netstandard2.0\DOMAIN.pdb
